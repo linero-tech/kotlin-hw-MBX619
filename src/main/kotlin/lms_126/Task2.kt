@@ -2,5 +2,11 @@ package lms_126
 
 fun task2(): String {
 
-    return TODO("Replace this 'TODO' with your solution")
+    return
+    /*
+      input rectangle hight
+      input rectangle base
+      rectangle area = rectangle base * rectangle hight
+      output rectangle area
+    */
 }
