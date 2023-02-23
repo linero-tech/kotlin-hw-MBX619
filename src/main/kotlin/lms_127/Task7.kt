@@ -1,6 +1,8 @@
 package lms_127
 
 fun task7(sentence: String): Int {
-
-    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
+    return sentence.length
+}
+fun main (){
+    println(task7(sentence= "I LOVE GBG"))
 }
