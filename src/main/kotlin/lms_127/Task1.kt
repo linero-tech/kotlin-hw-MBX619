@@ -1,9 +1,9 @@
 package lms_127
 
 fun task1() {
-       println("country: sweden")
-       println("capital: stockholm")
-       println("currency: sek")
+       println("Country: sweden")
+       println("Capital: stockholm")
+       println("Currency: sek")
 
        return
 }
